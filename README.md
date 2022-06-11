@@ -36,3 +36,26 @@ This is Code For download :
 ### To save the modifications to the file, you must type the command
 
 [ php artisan config:cache ]
+
+![122689376-d80b2300-d22a-11eb-9c12-68dfd7237c09](https://user-images.githubusercontent.com/94997828/173208341-50e83317-2447-4934-9190-b4f1ea458511.jpg)
+
+### To verify more and upload to the database, write the command
+
+ [ php artisan migrate ]
+ 
+ ## This is For code download registration and login page
+ 
+ # [ 1 ]
+ 
+  [ composer require laravel/ui -vvv ] 
+ 
+  # [ 2 ]
+ 
+  [ php artisan make:auth ] 
+  
+  
+ ![122689175-6aaac280-d229-11eb-97b8-bd3041881053](https://user-images.githubusercontent.com/94997828/173208380-4db213d2-a154-4772-96a4-65b8a9da79eb.jpg)
+
+
+![122689199-929a2600-d229-11eb-8d14-f66f3489deb8](https://user-images.githubusercontent.com/94997828/173208381-5f96901a-914c-42c5-87f6-bc44047166db.png)
+
