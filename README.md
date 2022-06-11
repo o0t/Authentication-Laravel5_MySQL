@@ -17,6 +17,22 @@ In December 2013, Laravel became one of the most popular PHP frameworks, accordi
 
 This is Code For download :
 
-composer create-project --prefer-dist laravel/laravel blog "5.7.*" 
+[ composer create-project --prefer-dist laravel/laravel blog "5.7.*" ]
 
 ![122688907-d2600e00-d227-11eb-90b3-784731f8d93d](https://user-images.githubusercontent.com/94997828/173208191-68dc4c14-088c-4e90-81cb-bc510fa35f78.png)
+
+
+# Download the registration and login page
+
+
+## A database must be created and linked to the project
+
+![122689322-5dda9e80-d22a-11eb-87c4-016606348205](https://user-images.githubusercontent.com/94997828/173208319-ac97e582-3144-47e3-bf09-8213aa697cfa.jpg)
+
+
+## After downloading Laravel, the file must be modified .env
+
+
+### To save the modifications to the file, you must type the command
+
+[ php artisan config:cache ]
