@@ -17,6 +17,6 @@ In December 2013, Laravel became one of the most popular PHP frameworks, accordi
 
 This is Code For download :
 
-##@ composer create-project --prefer-dist laravel/laravel blog "5.7.*" 
+## composer create-project --prefer-dist laravel/laravel blog "5.7.*" 
 
 ![122688907-d2600e00-d227-11eb-90b3-784731f8d93d](https://user-images.githubusercontent.com/94997828/173208191-68dc4c14-088c-4e90-81cb-bc510fa35f78.png)
